@@ -15,3 +15,6 @@ Number of files read :  3
 
 ----------------------------
 
+5233	./src/index.ts
+2307	./src/updateReadme.ts
+65	./src/types.ts
